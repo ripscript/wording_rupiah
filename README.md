@@ -20,5 +20,5 @@ Library kecil yang dibuat dengan bahasa pemograman javascript, untuk mengkonvers
 ## Function tambahan
 1.Force numeric pada input kamu `force_input_number()`
 ```html
-  <input type="text" onkeypress="return rupiah_number_only(event)" placeholder="Masukan nomor..." />
+  <input type="text" onkeypress="return force_input_number(event)" placeholder="Masukan nomor..." />
 ```
